@@ -1,6 +1,8 @@
 React Render
 ============
 
+[![npm version](https://badge.fury.io/js/react-render-service.svg)](http://badge.fury.io/js/react-render-service)
+
 Render React components on the server side in Django, also called "isomorphic React".
 You would do this for faster page loads, to make it friendlier to web crawlers and for SEO.
 
