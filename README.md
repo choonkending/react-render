@@ -39,7 +39,7 @@ Installation
 ------------
 
 ```bash
-npm install react-render-service --save
+npm install
 pip install react-render-client
 ```
 
